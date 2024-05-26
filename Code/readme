@@ -1,1 +1,5 @@
+IPL Data Analytics Project
 
+
+Overview
+This project involves comprehensive data analysis of the Indian Premier League (IPL) using PySpark and a structured approach to data manipulation, transformation, and visualization. The goal is to extract meaningful insights from the IPL dataset, which includes match details, player performances, and team statistics.
